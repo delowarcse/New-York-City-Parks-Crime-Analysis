@@ -16,8 +16,10 @@ Note: Central Park is excluded from this review.
 
 Disclaimer: This case study was developed solely for educational purposes. Any reference to real facts or real events is purely coincidental.
 
-# Instructions for Running "New York Park Crime Analysis.twb"
+# How to Run:
 
-    * First download Tableau from the following link https://www.tableau.com/products/trial
-    * Then download 'New York Park Crime Analysis.twb' and all databases
-    * Open 'New York Park Crime Analysis.twb' in Tableau and you will able to run the visualization.
+    1. Download Tableau from (https://www.tableau.com/products/trial).
+    2. Download the "New York Park Crime Analysis.twb" file and related databases.
+    3. Open the .twb file in Tableau to explore the visualization.
+
+This project is intended for educational purposes only.
